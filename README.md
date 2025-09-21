@@ -4,7 +4,7 @@ Hi there 👋
 <h1 align="center">سلام، من * هستم 👋</h1>
 
 <p align="center">
-  توسعه‌دهنده‌ی بک‌اند | عاشق Django و FastAPI | در حال یادگیری React و DevOps
+  توسعه‌دهنده‌ی بک‌اند | عاشق پایتون | در حال یادگیری 
 </p>
 
 ---
@@ -16,14 +16,41 @@ Hi there 👋
 - 💬 از همکاری و یادگیری با دیگران لذت می‌برم  
 - 🌐 وب‌سایت شخصی: [yourwebsite.ir](https://yourwebsite.ir)
 - 
-## 🛠 ابزارهایی که استفاده می‌کنم
+🛠 ابزارها و تکنولوژی‌هایی که استفاده می‌کنم
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+👨‍💻 زبان‌ها و فریم‌ورک‌ها
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" />
+</p>
 
----
+⚙️ ابزارهای توسعه و محیط‌ها
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" />
+</p>
+
+🧠 حوزه‌های تخصصی
+<p align="left">
+  <img src="https://img.shields.io/badge/NLP-%23ffa500?style=flat&logo=semantic-web&logoColor=white" />
+  <img src="https://img.shields.io/badge/Image_Processing-%2300bfff?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Speech-%23ff69b4?style=flat&logo=audacity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recognition-%2300cc66?style=flat&logo=ai&logoColor=white" />
+</p>
+
+💻 سیستم‌عامل‌ها
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" />
+</p>
 
 📊 آمار فعالیت من در GitHub
 
