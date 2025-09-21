@@ -20,14 +20,14 @@ Hi there 👋
 
 📊 آمار فعالیت من در GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Always-Learningeek&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Always-Learningeek&layout=compact&theme=tokyonight)
 
 ---
 
 🏆 تروفی‌های فعالیت
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Always-Learningeek&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
