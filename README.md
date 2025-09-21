@@ -15,6 +15,13 @@ Hi there 👋
 - 📚 در حال یادگیری تکنولوژی‌های جدید مثل Docker و Kubernetes  
 - 💬 از همکاری و یادگیری با دیگران لذت می‌برم  
 - 🌐 وب‌سایت شخصی: [yourwebsite.ir](https://yourwebsite.ir)
+- 
+## 🛠 ابزارهایی که استفاده می‌کنم
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
 ---
 
