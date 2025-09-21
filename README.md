@@ -2,6 +2,7 @@ Hi there 👋
 
 
 <h1 align="center">سلام، من * هستم 👋</h1>
+<h1 align="center">صفحه تازه شکل گرفته و در حال تکمیل میباشد.</h1>
 
 <p align="center">
   توسعه‌دهنده‌ی بک‌اند | عاشق پایتون | در حال یادگیری 
@@ -36,7 +37,7 @@ Hi there 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" />
 </p>
 
-🧠 حوزه‌های تخصصی
+🧠 حوزه‌های تحقیقی
 <p align="left">
   <img src="https://img.shields.io/badge/NLP-%23ffa500?style=flat&logo=semantic-web&logoColor=white" />
   <img src="https://img.shields.io/badge/Image_Processing-%2300bfff?style=flat&logo=opencv&logoColor=white" />
