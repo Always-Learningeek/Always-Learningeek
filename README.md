@@ -1,16 +1,40 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Always-Learningeek/Always-Learningeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">سلام، من * هستم 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  توسعه‌دهنده‌ی بک‌اند | عاشق Django و FastAPI | در حال یادگیری React و DevOps
+</p>
+
+---
+
+🧠 درباره من
+
+- 🎯 تمرکز روی پروژه‌های متن‌باز و یادگیری مداوم  
+- 📚 در حال یادگیری تکنولوژی‌های جدید مثل Docker و Kubernetes  
+- 💬 از همکاری و یادگیری با دیگران لذت می‌برم  
+- 🌐 وب‌سایت شخصی: [yourwebsite.ir](https://yourwebsite.ir)
+
+---
+
+📊 آمار فعالیت من در GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+
+---
+
+🏆 تروفی‌های فعالیت
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+📫 ارتباط با من
+
+<p align="left">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YourUsername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/YourUsername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+</p>
