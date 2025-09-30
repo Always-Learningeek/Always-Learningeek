@@ -7,11 +7,11 @@
   <!-- سمت چپ -->
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRoczN2aDNyc2VjOTEzdDY0eGpoYWdwdDJtYWZhb2t0OGV4cWFhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KhQo2MESJkc6QbS/giphy.gif" width="250"/>
 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGl3Nmd2M28wenF2ajdrdHRkdzd0eDFlNGE4dGM1Z2t4MDRiNWJxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ZSwQNWba4YF2/giphy.gif" width="126"/>
   <!-- وسط -->
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXF2MWNvYTN4NGw1cW9uZmZyNTExNTVvZTMxdG10ZjBwcTdqMHB2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.gif" width="250"/>
 
   <!-- سمت راست -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGl3Nmd2M28wenF2ajdrdHRkdzd0eDFlNGE4dGM1Z2t4MDRiNWJxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ZSwQNWba4YF2/giphy.gif" width="125"/>
 </p>
 
 
