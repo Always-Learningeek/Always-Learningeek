@@ -7,8 +7,10 @@
 </p>
 
 ---
-!(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGl3Nmd2M28wenF2ajdrdHRkdzd0eDFlNGE4dGM1Z2t4MDRiNWJxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ZSwQNWba4YF2/giphy.gif)
-!(https://media.tenor.com/images/3b3a30b1f10d4ed7a59d5b7e2d9a1a5f/tenor.gif)
+![Giphy Laptop GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGl3Nmd2M28wenF2ajdrdHRkdzd0eDFlNGE4dGM1Z2t4MDRiNWJxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ZSwQNWba4YF2/giphy.gif)
+
+![Tenor Laptop GIF](https://media.tenor.com/images/3b3a30b1f10d4ed7a59d5b7e2d9a1a5f/tenor.gif)
+
 
 🧠 درباره من
 
