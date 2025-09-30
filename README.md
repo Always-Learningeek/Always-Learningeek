@@ -1,11 +1,11 @@
 Hi there 👋
 
 
-<h1 align="center">سلام، من * هستم 👋</h1>
+<h1 align="center">درود بر شما👋</h1>
 <h1 align="center">صفحه تازه شکل گرفته و در حال تکمیل میباشد.</h1>
 
 <p align="center">
-  توسعه‌دهنده‌ی بک‌اند | عاشق پایتون | در حال یادگیری 
+  توسعه‌دهنده‌ی بک‌اند | عاشق پایتون | در حال یادگیری و تحصیل  
 </p>
 
 ---
@@ -13,9 +13,9 @@ Hi there 👋
 🧠 درباره من
 
 - 🎯 تمرکز روی پروژه‌های متن‌باز و یادگیری مداوم  
-- 📚 در حال یادگیری تکنولوژی‌های جدید مثل Docker و Kubernetes  
-- 💬 از همکاری و یادگیری با دیگران لذت می‌برم  
-- 🌐 وب‌سایت شخصی: [yourwebsite.ir](https://yourwebsite.ir)
+- 📚 در حال یادگیری تکنولوژی‌های جدید مثل Docker  
+- 💬 از همکاری و یادگیری با دیگران لذت می‌برم
+- 🌐 وب‌سایت شخصی
 - 
 🛠 ابزارها و تکنولوژی‌هایی که استفاده می‌کنم
 
@@ -53,6 +53,8 @@ Hi there 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" />
 </p>
 
+<!--
+
 📊 آمار فعالیت من در GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Always-Learningeek&show_icons=true&theme=tokyonight)
@@ -73,3 +75,4 @@ Hi there 👋
   <a href="https://linkedin.com/in/YourUsername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/YourUsername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
+-->
