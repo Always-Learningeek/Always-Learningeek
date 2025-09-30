@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" />
 </p>
 
-🧠 حوزه‌های تحقیقی
+🧠 حوزه‌های علاقه مند تحقیقی
 <p align="left">
   <img src="https://img.shields.io/badge/NLP-%23ffa500?style=flat&logo=semantic-web&logoColor=white" />
   <img src="https://img.shields.io/badge/Image_Processing-%2300bfff?style=flat&logo=opencv&logoColor=white" />
